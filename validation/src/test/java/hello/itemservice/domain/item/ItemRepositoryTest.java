@@ -1,7 +1,5 @@
 package hello.itemservice.domain.item;
 
-import hello.validation.domain.item.Item;
-import hello.validation.domain.item.ItemRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
